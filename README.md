@@ -1,5 +1,5 @@
 # DSI_minicourse
-The complete name of the course is **Python, Data Science & Machine Learning Mini-Course** and the instrcutor of this course is [Andrew Jones](https://www.linkedin.com/in/andrew-jones-data-science-infinity-52a35aa/). The course cover following sections:
+The complete name of the course is **Python, Data Science & Machine Learning Mini-Course** and the instructor of this course is [Andrew Jones](https://www.linkedin.com/in/andrew-jones-data-science-infinity-52a35aa/). The course cover following sections:
   * Python Basics
   * Introduction to Pandas for data analysis using sales data
   * Prime Number finder along with some aggregate functions
